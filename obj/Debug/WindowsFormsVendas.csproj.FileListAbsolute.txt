@@ -1,0 +1,14 @@
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\bin\Debug\WindowsFormsVendas.exe.config
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\bin\Debug\WindowsFormsVendas.exe
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\bin\Debug\WindowsFormsVendas.pdb
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.FormCadCliente.resources
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.FormOpcaoSistema.resources
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.FormCadProduto.resources
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.FormCadVenda.resources
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.Properties.Resources.resources
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.csproj.GenerateResource.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.exe
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsVendas\obj\Debug\WindowsFormsVendas.pdb
