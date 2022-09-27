@@ -1,5 +1,5 @@
-# E.CommerceWebAPI_Vendas_Intranet
+# E.CommerceAPI_Vendas_Intranet
 
-WebAPI e-commerce com persistência em DB SQL Server, feito em C# .Net utilizando Windows Form, feito para controle interno de cliente, atendendo requisitos de negócio.WebAPI e-commerce com persistência em DB SQL Server, feito em C# .Net utilizando Windows Form, feito para controle interno de cliente, atendendo requisitos de negócio.
+API e-commerce com persistência em Banco de Dados SGBD: SQLServer, linguagem C# em .Net utilizando Windows Forms, para controle interno de cliente, em atenção aos requisitos de negócio. 
 
-Competências: Web Form · Analise de Requisito · Testes · C#
+Competências: Analise de Requisito · Testes · C# . .Net Windows Forms.
