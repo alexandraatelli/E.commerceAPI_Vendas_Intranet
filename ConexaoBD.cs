@@ -17,7 +17,7 @@ namespace WindowsFormsVendas
         /// <summary>
         /// armazena o nome do banco ou do catálogo para usar no sistema
         /// </summary>
-        private string conexaoString = "Data Source=127.0.0.1; Initial Catalog=vendas_db; User ID=sa; password='1q2w3e4r@#$';language=Portuguese";
+        private string conexaoString = //excluído por segurança
 
         /// <summary>  
         /// objeto de conexao com o banco de dados
